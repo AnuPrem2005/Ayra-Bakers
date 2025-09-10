@@ -1,0 +1,283 @@
+.name{
+    background-color: pink;
+    width: 250px;
+    text-align: center;
+    height: 100%;
+    font-family:Copperplate, Papyrus, fantasy;
+}  
+.ms-auto{
+    gap: 10px;
+}
+.ms-auto .nav-link {
+  color: rgb(213, 180, 123);
+}
+.ms-auto button {
+  color: rgb(213, 180, 123);
+}
+.ms-auto button {
+  background: transparent;
+  border: 1px solid gold;
+  padding: 5px 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+Nav{
+    border: 1px solid rgb(213, 180, 123);
+}
+.img{
+  width: 25px;
+  height: 25px;
+}
+.rr{
+  width: 100%;
+}
+.m{
+  width: 100%;
+  height: 100px;
+  background-color: antiquewhite;
+  text-align: center;
+  font-family:Garamond;
+  font-weight: bold;
+  align-content: center;
+}
+.cak{
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+.card{
+  display: flex;
+}
+.mb-3{
+  width: 50%;
+  padding-left: 200px;
+}
+.but{
+  width: 100px;
+  height: 40px;
+  background-color: antiquewhite;
+  border: solid 1px gray;
+  border-radius: 4px;
+}
+/* .bu{
+  padding-left: 150px;
+} */
+.n{
+  width: 100%;
+  height: 100px;
+  background-color: antiquewhite;
+  text-align: center;
+  font-family:Garamond;
+  font-weight: bold;
+  align-content: center;
+  padding-top: 38px;
+  display: flex;
+}
+.con{
+  width: 50%;
+}
+.com{
+  width: 100%;
+}
+.conus{
+  width: 35%;
+  text-align: center;
+}
+.wh{
+  display: flex;
+}
+footer{
+  text-align: center;
+  height: 100px;
+  padding-top: 40px;
+  border-top: solid 1px rgb(202, 180, 152);
+}
+.nn{
+  font-family:Garamond;
+  font-weight: bolder;
+}
+.namen{
+  font-family:Copperplate, Papyrus, fantasy;
+  font-weight: bolder;
+  font-size: large;
+}
+.gal{
+  width: 100%;
+  height: 325px;
+  background-color: white;
+  color: rgb(50, 50, 50);
+  text-align: center;
+  padding-top: 50px;
+  font-weight: bold;
+}
+.ga{
+  font-family: "Parkin Sans", Sans-serif;
+  font-size: medium;
+}
+.emp{
+  display: flex;
+  width: 100%;
+  height: 375px;
+}
+.im{
+  width: 320px;
+  height: 300px;
+}
+.ab{
+  text-align: center;
+  padding: 20px;
+}
+.abo{
+  width: 100%;
+  height: 100px;
+  background-color: antiquewhite;
+}
+.abou{
+  text-align: center;
+  font-size:x-large;
+  font-weight: bold;
+  color: rgb(247, 140, 158);
+}
+.apara{
+   font-weight:500;
+}
+ .ai{
+width: 90%; }
+ .alll{
+width: 50%; }
+.abpara{
+  font-weight:500;
+}
+.abopara{
+  font-weight:500;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.bpi{
+  background-color: rgb(252 230 233 / 83%);
+  width: 100%;
+  height: 300px;
+}
+.sp{
+  text-align: center;
+  font-size:xx-large;
+  font-family: Serif;
+  padding: 35px;
+  font-weight:bold;
+}
+.sppara{
+  text-align: center;
+  font-size: large;
+  font-weight: 500;
+}
+.spi{
+  background-color: #e3f7fb;
+  width: 100%;
+  height: 750px;
+}
+.cam{
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+}
+.spbut{
+  background: transparent;
+  border: 1px solid gold;
+  padding: 5px 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: #b2ddd3;
+  color:rgb(180, 153, 0)   ;
+  font-weight:350;
+}
+.moveno{
+  padding-left: 595px;
+  padding-top: 40px;
+}
+.pinkbg{
+  width: 100%;
+  height: 400px;
+  background-color: rgb(252 230 233 / 83%);
+}
+.imgwe{
+  /* width: 50%; */
+  height: 275px;
+  padding-left: 200px;
+}
+.flex{
+  display: flex;
+}
+.lpara{
+  font-weight:500;
+}
+.homim{
+  display: flex;
+  width: 100%;
+  height: 250px;
+  background-color: white;
+}
+.imgho{
+  width: 180px;
+  height: 109px;
+  display: flex;
+}
+.imghop{
+  text-align: center;
+  font-weight: 350;
+}
+.lett{
+  padding-left: 65px;
+  padding-top: 60px;
+}
+.menu{
+  width: 100%;
+  height: 500px;
+  background-color: antiquewhite;
+}
+.menuh{
+  text-align: center;
+  font-size: large;
+  font-weight: 350;
+  font-family: "Courier New", Courier, monospace;
+}
+.spo{
+  text-align: center;
+  font-size:xx-large;
+  font-family: Serif;
+  padding-top: 35px;
+  font-weight:bold;
+}
+.homimm{
+  display: flex;
+  width: 100%;
+  height: 250px;
+}
+.lettt{
+  padding-left: 65px;
+}
+.imghoo{
+  width: 180px;
+  height: 250px;
+  display: flex;
+  border-radius: 10px;
+}
+.imghopp{
+  text-align: center;
+  font-weight: 350;
+  font-weight:600;
+}
+.poi{
+  width: 100%;
+  height: 1090px;
+  background-color: white;
+}
+.spbutt{
+  padding: 5px 10px;
+  cursor: pointer;
+  background-color: #000000;
+  color:rgb(255, 255, 255)   ;
+  font-weight:350;
+}
+.movenoo{
+  padding-left: 595px;
+  padding-top: 40px;
+}
